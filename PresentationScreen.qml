@@ -69,7 +69,7 @@ Rectangle {
 
             Text {
                 id: label
-                text: "Maria & Jan 1.7.17"
+                text: "Hier könnte Ihre Werbung stehen ;-)"
                 font.bold: true
                 font.pointSize: 32
                 horizontalAlignment: Text.AlignHCenter
